@@ -1,0 +1,11 @@
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\HomeAssigment1\HomeAssigment1\bin\Debug\HomeAssigment1.exe.config
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\HomeAssigment1\HomeAssigment1\bin\Debug\HomeAssigment1.exe
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\HomeAssigment1\HomeAssigment1\bin\Debug\HomeAssigment1.pdb
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\HomeAssigment1\HomeAssigment1\obj\Debug\HomeAssigment1.csproj.AssemblyReference.cache
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\HomeAssigment1\HomeAssigment1\obj\Debug\HomeAssigment1.Form1.resources
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\HomeAssigment1\HomeAssigment1\obj\Debug\HomeAssigment1.Properties.Resources.resources
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\HomeAssigment1\HomeAssigment1\obj\Debug\HomeAssigment1.csproj.GenerateResource.cache
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\HomeAssigment1\HomeAssigment1\obj\Debug\HomeAssigment1.csproj.CoreCompileInputs.cache
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\HomeAssigment1\HomeAssigment1\obj\Debug\HomeAssigment1.exe
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\HomeAssigment1\HomeAssigment1\obj\Debug\HomeAssigment1.pdb
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\HomeAssigment1\HomeAssigment1\obj\Debug\HomeAssigment1.exe.config
