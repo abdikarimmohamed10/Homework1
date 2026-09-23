@@ -1,11 +1,18 @@
 
 | Course Title | C# Programming I |
+
 | Course Code | CA242 |
+
 | Department | Computer Application |
+
 | Faculty | Computer & Information Technology |
+
 | University | Jamhuriya University of Science & Technology |
+
 | Academic Year | 2026 |
+
 | Semester | IV |
+
 | Student | Abdikarim Mohamed Salad |
 
 
